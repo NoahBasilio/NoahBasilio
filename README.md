@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @NoahBasilio
 - 👀 I’m interested in Programming, Gaming, and Anime!
 - 🌱 I’m currently learning how to code with Python!
-- 💞️ I’m looking to collaborate on nothing right now.
-- 📫 How to reach me: Currently my scratch account is my only way of chatting with me right now. (@_Terabyte)
+- 💞️ I’m not looking to collaborate right now.
+- 📫 How to reach me: No possible way to reach me at the moment.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: My favorite movie is Drifting Home.
+- ⚡ Fun fact: I'm working on a Text-based Pokemon Game!
 
 <!---
 NoahBasilio/NoahBasilio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
