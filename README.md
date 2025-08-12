@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NoahBasilio
-- 👀 I’m interested in Programming, Gaming, and Anime!
+- 👀 I’m interested in Programming, Gaming (especially Pokémon), and Anime!
 - 🌱 I’m currently learning how to code with Python!
 - 💞️ I’m not looking to collaborate right now.
 - 📫 How to reach me: No possible way to reach me at the moment.
