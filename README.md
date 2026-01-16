@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @NoahBasilio<br>👀 I’m interested in Programming, Gaming (especially Pokémon and Geometry Dash), and Anime!<br>🌱 I’m currently learning how to code with Python and C++!<br>💞️ I’m not looking to collaborate right now.<br>📫 How to reach me: No possible way to reach me at the moment.<br>😄 Pronouns: he/him<br>⚡ Fun fact: I'm brushing up on my Python and C++!
+👋 Hi, I’m @NoahBasilio<br>👀 I’m interested in Programming, Gaming (especially Pokémon and Geometry Dash), and Anime!<br>🌱 I’m currently learning how to code with Python and C++!<br>💞️ I’m not looking to collaborate right now.<br>📫 How to reach me: No possible way to reach me at the moment. (Except for my twitch)<br>😄 Pronouns: he/him<br>⚡ Fun fact: I'm brushing up on my Python and C++!
 
 
 ## 🌐 Socials:
