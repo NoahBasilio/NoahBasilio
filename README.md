@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @NoahBasilio<br>👀 I’m interested in Programming, Gaming, and Anime!<br>🌱 I’m currently learning how to win competitions with Python!<br>💞️ I’m not looking to collaborate right now.<br>📫 How to reach me: No possible way to reach me at the moment.<br>😄 Pronouns: he/him<br>⚡ Fun fact: I'm learning Java and Python!
+👋 Hi, I’m @NoahBasilio<br>👀 I’m interested in Programming, Gaming, and Anime!<br>🌱 I’m currently learning how to win competitions with Python!<br>💞️ I’m not looking to collaborate right now.<br>📫 How to reach me: No possible way to reach me at the moment.<br>😄 Pronouns: he/him<br>⚡ Fun fact: I'm learning Rust and Java (and coming back to JavaScript)!
 
 
 ## 🌐 Socials:
