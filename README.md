@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on nothing!<br>👯 I’m looking to collaborate on any projects (in my skill level)!<br>🤝 I’m looking for help with nothing much!<br>🌱 I’m currently learning Java (for APCSA), R, Julia, and C++<br>⚡ Fun fact: I love programming and I've done it since before middle school with Scratch!
+🔭 I’m currently working on nothing!<br>👯 I’m looking to collaborate on any projects (in my skill level)!<br>🤝 I’m looking for help with nothing much!<br>🌱 I’m currently learning Java (for APCSA), R, Julia, and C++<br>⚡ Fun fact: My love for programming was actually kickstarted around 5-6th grade, when I used Scratch a lot.
 
 
 ## 🌐 Socials:
