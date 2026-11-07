@@ -10,6 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=NoahBasilio&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
 ![](https://streak-stats.demolab.com/?user=NoahBasilio&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=77162&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)<br/><br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NoahBasilio&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
 
